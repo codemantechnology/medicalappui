@@ -1,4 +1,4 @@
-![Frame 3](file:///C:/Users/codez/Desktop/medical.png)
+![Frame 3](https://github.com/codemantechnology/medicalappui/blob/main/medical.png)
 
 # medicalappui
 
